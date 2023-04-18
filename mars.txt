@@ -5,3 +5,7 @@ Maybe I should start with a base on Venus
 
 create conflict on local repository
 create conflict on github.com
+
+
+We added a different line in the other copy
+
